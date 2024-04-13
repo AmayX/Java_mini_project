@@ -1,1 +1,1 @@
-Java Mini Project for SDL-1
+Java Mini Project for Advanced Java Programming Lab @ PCCOE
